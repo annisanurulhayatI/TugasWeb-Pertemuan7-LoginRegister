@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nama": "Bima Hidayat",
+        "email": "bimahidayat67@gmail.com",
+        "password": "$2y$10$fF7rulKRN6v3vU8AEkcXie56N8r3FPHQCpOtYNarS06UJ70zNfxjm",
+        "created_at": "2026-09-29 17:38:02"
+    },
+    {
+        "id": 2,
+        "nama": "Rosita Aulia",
+        "email": "rosita1975@gmail.com",
+        "password": "$2y$10$fXk\/eW10w7rfReSVzkqUSek8NxIW1rh1BMf.StF18SNXqo25AU4rK",
+        "created_at": "2026-09-29 17:38:25"
+    },
+    {
+        "id": 3,
+        "nama": "Novita Putri",
+        "email": "novitaputri01@gmail.com",
+        "password": "$2y$10$rx\/QmW9IjSjhGvqcd2QCA.IJEv9RHCRA082\/4vgFZBQUhNVhSHlrS",
+        "created_at": "2026-09-29 17:38:40"
+    },
+    {
+        "id": 4,
+        "nama": "Andika Rahmadani",
+        "email": "andikarahmadani456@gmail.com",
+        "password": "$2y$10$bIjpxIWfGhOZ9DaJ7PzCpO8VuMsMapXhvI0SKpywTMrhGSWKi9RwG",
+        "created_at": "2026-09-29 17:38:53"
+    }
+]
